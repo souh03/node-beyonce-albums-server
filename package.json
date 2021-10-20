@@ -1,0 +1,24 @@
+{
+  "name": "beyonce-albums",
+  "version": "1.0.0",
+  "description": "\"Practing CRUD\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omared250/beyonce-albums-server.git"
+  },
+  "author": "omar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omared250/beyonce-albums-server/issues"
+  },
+  "homepage": "https://github.com/Omared250/beyonce-albums-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  }
+}
